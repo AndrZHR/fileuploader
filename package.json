@@ -1,5 +1,5 @@
 {
-  "name": "fileuploader",
+  "name": "fileupd",
   "version": "1.0.0",
   "description": "A simple file uploader package for JavaScript applications.",
   "main": "./src/index.js",
