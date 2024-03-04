@@ -1,0 +1,26 @@
+{
+  "name": "fileuploader",
+  "version": "1.0.0",
+  "description": "A simple file uploader package for JavaScript applications.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AndrZHR/fileuploader.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "keywords": [
+    "file",
+    "upload",
+    "component",
+    "javascript",
+    "npm"
+  ],
+  "dependencies": {
+    "fileupdc": "^1.0.0"
+  },
+  "devDependencies": {}
+}
